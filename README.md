@@ -1,1 +1,1 @@
-# https-github.com-adminazhar-hackerrank-SQL-basic-skills-certification-test-solution
+Hackerrank-SQL-basic-skills-certification-test-solution
